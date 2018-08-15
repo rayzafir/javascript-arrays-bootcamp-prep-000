@@ -15,5 +15,5 @@ array.push(element)
 return array
 }
 function accessElementInArray(array,index){
-  console.log(index[0])
+  console.log(array[index])
 }
